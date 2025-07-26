@@ -7,7 +7,7 @@ This page displays the codes for estimating average direction treatment effect (
 * Contact: Kuan-Hsun Wu, email: 110304015@g.nccu.edu.tw
 -------------
 ## [ipw_estimation_circular.R](https://github.com/kuanhsun/Causal-Inference-for-Circular-Data/blob/main/ipw_estimation_circular.R)
-The functions are recorded in this code. 
+This R code contains the main functions. 
 
 ### rwc
 ```rwc = function(mu,rho)```
