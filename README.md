@@ -6,7 +6,7 @@ This page displays the codes for estimating average direction treatment effect (
 * Paper Reference: [Causal Inference for Circular Data](https://github.com/kuanhsun/Causal-Inference-for-Circular-Data/blob/main/Causal_Inference_for_Circular_Data_0726.pdf)
 * Contact: Kuan-Hsun Wu, email: 110304015@g.nccu.edu.tw
 -------------
-## ipw_estimation_circular.R
+## [ipw_estimation_circular.R](https://github.com/kuanhsun/Causal-Inference-for-Circular-Data/blob/main/ipw_estimation_circular.R)
 The functions are recorded in this code. 
 
 ### rwc
@@ -49,7 +49,7 @@ The functions are recorded in this code.
   - MSE: The mean sqaured error of this simulation run. 
   - coverage: The coverage probabiltity of this simulation run.
  
-## implement.R
+## [implement.R](https://github.com/kuanhsun/Causal-Inference-for-Circular-Data/blob/main/implement.R)
 
-This file is the R code which implements the simulation run in the article. All functions are included in ipw_estimation_circular.R
+This file is the R code which implements the simulation run in the article. All functions used are included in [ipw_estimation_circular.R](https://github.com/kuanhsun/Causal-Inference-for-Circular-Data/blob/main/ipw_estimation_circular.R).
 
