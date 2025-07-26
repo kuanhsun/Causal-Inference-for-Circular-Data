@@ -1,4 +1,4 @@
-# Causal-Inference-for-Circular-Data
+# Causal Inference for Circular Data
 -------------
 
 This page displays the codes for estimating average direction treatment effect (ADTE) and average length treatment effect (ALTE).
