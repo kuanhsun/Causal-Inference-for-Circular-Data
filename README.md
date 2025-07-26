@@ -47,4 +47,9 @@ The functions are recorded in this code.
   - bias: The average bias of this simulation run. 
   - sd: The standard deviation of the estimates in this simulation run. 
   - MSE: The mean sqaured error of this simulation run. 
-  - coverage: The coverage probabiltity of this simulation run. 
+  - coverage: The coverage probabiltity of this simulation run.
+ 
+## implement.R
+
+This file is the R code which implements the simulation run in the article. All functions are included in ipw_estimation_circular.R
+
